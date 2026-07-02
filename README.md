@@ -135,7 +135,7 @@ PRODIGY_ML_04/
 Clone the repository:
 
 ```bash
-git clone <your-github-repository-link>
+git clone <https://github.com/visheshjainn16/PRODIGY_ML_04.git>
 ```
 
 Move into the project folder:
