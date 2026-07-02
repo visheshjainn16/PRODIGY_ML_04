@@ -99,9 +99,7 @@ The training and validation accuracy/loss graphs are available in:
 
 ## 📉 Confusion Matrix
 
-```
-images/confusion_matrix.png
-```
+![Confusion Matrix](images/confusion_matrix.png)
 
 ---
 
