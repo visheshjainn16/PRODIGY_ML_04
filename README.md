@@ -91,7 +91,8 @@ Only **4 misclassifications out of 4000 test images**, demonstrating excellent m
 The training and validation accuracy/loss graphs are available in:
 
 ```
-images/accuracy_loss.png
+<img width="3600" height="1500" alt="image" src="https://github.com/user-attachments/assets/652cd174-3030-4bb6-b172-e29855b0e5f6" />
+
 ```
 
 ---
